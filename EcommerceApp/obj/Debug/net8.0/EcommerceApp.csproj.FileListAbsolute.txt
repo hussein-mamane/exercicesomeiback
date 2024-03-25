@@ -126,3 +126,4 @@ C:\Users\Housseini\RiderProjects\EcommerceApp\EcommerceApp\obj\Debug\net8.0\refi
 C:\Users\Housseini\RiderProjects\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.pdb
 C:\Users\Housseini\RiderProjects\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.genruntimeconfig.cache
 C:\Users\Housseini\RiderProjects\EcommerceApp\EcommerceApp\obj\Debug\net8.0\ref\EcommerceApp.dll
+C:\Users\Housseini\RiderProjects\EcommerceApp\EcommerceApp\obj\Debug\net8.0\EcommerceApp.sourcelink.json
