@@ -35,6 +35,10 @@ namespace EcommerceApp.Migrations
                     b.Property<double>("Price")
                         .HasColumnType("REAL");
 
+                    b.Property<string>("imgPath")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
                     b.HasKey("ProductId");
 
                     b.ToTable("Products");

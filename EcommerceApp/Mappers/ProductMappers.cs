@@ -11,7 +11,8 @@ public static class ProductMappers
         {
             Name = requestToProduct.Name,
             Price = requestToProduct.Price,
-            Description = requestToProduct.Description
+            Description = requestToProduct.Description,
+            imgPath = requestToProduct.imgPath,
         };
     }
     
@@ -22,7 +23,8 @@ public static class ProductMappers
             ProductId = product.ProductId,
             Name = product.Name,
             Price = product.Price,
-            Description = product.Description
+            Description = product.Description,
+            imgPath = product.imgPath
         };
     }
     
